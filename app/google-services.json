@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503686062672",
+    "project_id": "smd2-musify",
+    "storage_bucket": "smd2-musify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503686062672:android:35f6a7af876154914ce755",
+        "android_client_info": {
+          "package_name": "com.karishan_897.smd2_musify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503686062672-mjf2cs4d6ucqk52p97e2ge0irng86fi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxBszP484HhupjccgeHCJa6YpwmoIH1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503686062672-mjf2cs4d6ucqk52p97e2ge0irng86fi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
